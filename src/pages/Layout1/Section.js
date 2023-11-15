@@ -32,7 +32,7 @@ class Section extends Component {
                 <Row className="align-items-center">
                   <Col lg={6}>
                     <div className="home-content">
-                      <p className="mb-0">Digital Marketing</p>
+                      <p className="mb-0">Digital</p>
                       <img src={HomeUrl} height="15" alt="" />
                       <h1 className="home-title mt-4">Grow Your <br /> Business Google Ads & Instagram Ads</h1>
                       <p className="text-muted mt-4 f-20">Vestibulum egestas magna ut aliquet sodales nunc
